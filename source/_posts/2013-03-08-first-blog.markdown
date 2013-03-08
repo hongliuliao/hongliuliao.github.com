@@ -1,21 +1,12 @@
 ---
 layout: post
-title: "test1"
-date: 2013-03-08 12:46
+title: "Frist Blog"
+date: 2013-03-08 15:39
 comments: true
-categories: test
+categories: 随笔
 ---
 
 第一个博客
 ==========
 
-markdown测试
-----------
-
-**下面是一个列表** :
-
- * 我是项目1[aaa](http://www.baidu.com)
- * 我是项目2
- 
- > 引用的内容
- > > 内容2
+在github上建立博客了,以后希望能多写一些吧,像sharewind同学学习!
