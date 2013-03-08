@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: test | liaohongliu's Blog]]></title>
-  <link href="http://hongliuliao.github.com/blog/categories/test/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 随笔 | liaohongliu's Blog]]></title>
+  <link href="http://hongliuliao.github.com/blog/categories/sui-bi/atom.xml" rel="self"/>
   <link href="http://hongliuliao.github.com/"/>
-  <updated>2013-03-08T15:32:15+08:00</updated>
+  <updated>2013-03-08T15:40:09+08:00</updated>
   <id>http://hongliuliao.github.com/</id>
   <author>
     <name><![CDATA[小小剑士]]></name>
@@ -14,25 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[test1]]></title>
+    <title type="html"><![CDATA[Frist Blog]]></title>
     <link href="http://hongliuliao.github.com/blog/2013/03/08/first-blog/"/>
-    <updated>2013-03-08T12:46:00+08:00</updated>
+    <updated>2013-03-08T15:39:00+08:00</updated>
     <id>http://hongliuliao.github.com/blog/2013/03/08/first-blog</id>
     <content type="html"><![CDATA[<h1>第一个博客</h1>
 
-<h2>markdown测试</h2>
-
-<p><strong>下面是一个列表</strong> :</p>
-
-<ul>
-<li>我是项目1<a href="http://www.baidu.com">aaa</a></li>
-<li>我是项目2</li>
-</ul>
-
-
-<blockquote><p>引用的内容</p>
-
-<blockquote><p>内容2</p></blockquote></blockquote>
+<p>在github上建立博客了,以后希望能多写一些吧,像sharewind同学学习!</p>
 ]]></content>
   </entry>
   
