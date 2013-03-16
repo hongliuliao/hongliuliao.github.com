@@ -1,4 +1,4 @@
 hongliuliao.github.com
 ======================
 
-[my blog](hongliuliao.github.com)
+[my blog](http://hongliuliao.github.com)
